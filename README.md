@@ -3,10 +3,7 @@
 ---
 
 ## 📌 Introduction
-Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales data.  
-Dimensions analyzed include **Gender**, **Age Group**, **Payment Method**, **Product Sub-Category**, and more.  
-Dynamic slicers allow interactive exploration of the data.
-
+Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales dataset. Gender, age group, payment method, product sub-category, and other dimensions are analyzed. Dynamic slicers are used for interactive data exploration.
 ---
 
 ## 🛠️ Tools Used
