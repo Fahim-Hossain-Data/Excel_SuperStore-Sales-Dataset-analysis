@@ -28,7 +28,6 @@ Dynamic slicers allow interactive exploration of the data.
 | **Time Period** | 2019–2020 |
 | **Number of Records** | 5,901 |
 | **Data Type** | Structured tabular transactional dataset |
-| **Granularity** | Order-level transactions |
 | **Missing Values** | None |
 
 ---
@@ -49,25 +48,35 @@ Dynamic slicers allow interactive exploration of the data.
 
 ## 📈 Sales Insights and Key Findings
 
+### Overall Insights (2019–2020)
 - **Gender-Based Purchasing Patterns:** Women contribute ~70% of total sales; men ~30%
 - **Age Group Analysis:** Adults place the highest number of orders, followed by Young, then Older customers. Women outperform men in all age groups.
-- **Top Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%) are the most lucrative segments
+- **Top Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%)
 - **Seasonal Sales Trends:** December has peak sales; February has the lowest
-- **Monthly Profit Variation:** Profit patterns reflect sales; peak in December, lowest in April
-- **Top Customers:** Identified top 5 customers and their proportional contribution to overall sales
-- **Interactive Slicers:** Year and payment method slicers allow filtering to analyze category performance dynamically
+- **Monthly Profit Variation:** Peak profit in December, lowest in April
+- **Top Customers:** Identified top 5 customers and their proportional contribution
+- **Interactive Slicers:** Year and payment method slicers allow filtering for detailed analysis
+
+*The following figure shows overall sales trends and key patterns observed from 2019 to 2020.*
+### Overall Insights (2019–2020)
+<p align="center">
+  <img src="https://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/90efa7e7b3623b9274c79bbbe31f0f2e481c3ac2/ALL%20Year.png" alt="Histogram" width="600"/>
+  <br>
+  <em> Excel Dashboard Showing SuperStore Sales Trends (2019–2020) </em>
+</p>
 
 ---
 
-## 📊 Visualizations
-
-### Overall Insights (2019–2020)
-![Overall Trends Histogram](images/overall_trends.png)
-
+### Insights for 2020
+- Highlighted trends specifically for 2020 using slicer filters
+- Similar patterns observed with slight variations in product contributions or monthly trends
 ### Insights for 2020 (Filtered)
-![2020 Trends Histogram](images/2020_trends.png)
-
-*Replace `images/overall_trends.png` and `images/2020_trends.png` with your actual image file paths in your repository.*
+*The following figure shows sales trends specifically for 2020.*
+<p align="center">
+  <img src="ttps://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/90efa7e7b3623b9274c79bbbe31f0f2e481c3ac2/ALL%20Year.png" alt="Histogram" width="600"/>
+  <br>
+  <em>Figure: Filtered Excel Dashboard Showing SuperStore Sales Trends for 2020 </em>
+</p>
 
 ---
 
