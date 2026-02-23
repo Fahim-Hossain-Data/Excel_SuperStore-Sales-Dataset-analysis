@@ -73,7 +73,7 @@ Dynamic slicers allow interactive exploration of the data.
 ### Insights for 2020 (Filtered)
 *The following figure shows sales trends specifically for 2020.*
 <p align="center">
-  <img src="ttps://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/90efa7e7b3623b9274c79bbbe31f0f2e481c3ac2/ALL%20Year.png" alt="Histogram" width="600"/>
+  <img src="https://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/3ba8c1f3ca64d719d5dc505199725d68682e939f/2020.png" alt="Histogram" width="600"/>
   <br>
   <em>Figure: Filtered Excel Dashboard Showing SuperStore Sales Trends for 2020 </em>
 </p>
