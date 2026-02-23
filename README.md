@@ -7,10 +7,21 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 ---
 🛠️ **Tools Used**
 
----
+- **Microsoft Excel** – Data cleaning, transformation, analysis, and dashboard development
+
+- **Formulas & Functions:**
+**IF()** – Age group categorisation
+**TEXT()** – Extracted Month and Year from Order Date
+
+- **Data Visualisation Techniques** – Pie charts, column charts, bar charts, line charts, combo charts, and histograms
 
 ---
+
 📊 **Data Description**
+
+- Time Period: 2019–2020
+- Number of Records: 5,901
+- Data Type: Structured tabular transactional dataset
 
 ---
 
@@ -18,7 +29,10 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 - **⚙️ Feature Engineering:** Derived **month** and **year** from the Order Date column and categorized **Age** into three meaningful groups using conditional logic (IF statements).  
 
-- **🔎 Exploratory Analysis:** **Pivot tables**, **pivot charts** (pie charts, column charts, line charts, bar charts, and combo charts) were used to summarize and derive insights by analyzing the data.
+- **🔎 Exploratory Analysis:**
+- Pivot tables for summarising sales across multiple dimensions
+- Time-series exploration to identify seasonality and monthly profit trends
+- Visualisations were used to uncover patterns, highlight seasonal trends, and effectively communicate multidimensional sales insights.
 
 ---
 
