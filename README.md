@@ -87,9 +87,16 @@ The top five customers are also identified, highlighting their key information a
 
 Key trends indicated by the dashboard are that most sales are made by women and adults, December is the most profitable month, and Phones, Chairs, and Binders are the most profitable products. Interactive visuals prioritize best customers and opportunities.
 
+---
+
+## 📫 I’d Love to Connect!
+
+- **LinkedIn:** [Md Fahim Hossain](https://www.linkedin.com/in/md-fahim-hossain-b51258227/)  
+- **Email:** fahimhossain0729@gmail.com
+
+
 <div align="center">
   
 **[⬆ Back to Top](#top)**
 
 </div>
-
