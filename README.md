@@ -10,10 +10,8 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 - **Microsoft Excel** – Data cleaning, transformation, analysis, and dashboard development
 
 - **Formulas & Functions:**
-
-**IF()** – Age group categorisation
-
-**TEXT()** – Extracted Month and Year from Order Date
+  - `IF()` – Age group categorisation  
+  - `TEXT()` – Extracted Month and Year from Order Date
 
 - **Data Visualisation Techniques** – Pie charts, column charts, bar charts, line charts, combo charts, and histograms
 
