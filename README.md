@@ -28,6 +28,7 @@ Dynamic slicers allow interactive exploration of the data.
 | **Time Period** | 2019–2020 |
 | **Number of Records** | 5,901 |
 | **Data Type** | Structured tabular transactional dataset |
+| **Granularity** | Order-level transactions |
 | **Missing Values** | None |
 
 ---
@@ -55,6 +56,18 @@ Dynamic slicers allow interactive exploration of the data.
 - **Monthly Profit Variation:** Profit patterns reflect sales; peak in December, lowest in April
 - **Top Customers:** Identified top 5 customers and their proportional contribution to overall sales
 - **Interactive Slicers:** Year and payment method slicers allow filtering to analyze category performance dynamically
+
+---
+
+## 📊 Visualizations
+
+### Overall Insights (2019–2020)
+![Overall Trends Histogram](images/overall_trends.png)
+
+### Insights for 2020 (Filtered)
+![2020 Trends Histogram](images/2020_trends.png)
+
+*Replace `images/overall_trends.png` and `images/2020_trends.png` with your actual image file paths in your repository.*
 
 ---
 
