@@ -27,12 +27,15 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 ## 🧰 Data Preparation and Exploratory Analysis
 
-- **⚙️ Feature Engineering:** Derived **month** and **year** from the Order Date column and categorized **Age** into three meaningful groups using conditional logic (IF statements).  
+- **Data Preparation:**
+  - Extracted Month and Year from Order Date  
+  - Created Age Groups using `IF()` logic  
+  - Performed missing value analysis — no missing data found
 
 - **🔎 Exploratory Analysis:**
-- Pivot tables for summarising sales across multiple dimensions
-- Time-series exploration to identify seasonality and monthly profit trends
-- Visualisations were used to uncover patterns, highlight seasonal trends, and effectively communicate multidimensional sales insights.
+ - Pivot tables for summarising sales across multiple dimensions
+ - Time-series exploration to identify seasonality and monthly profit trends
+ - Visualisations were used to uncover patterns, highlight seasonal trends, and effectively communicate multidimensional sales insights.
 
 ---
 
