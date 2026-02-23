@@ -23,7 +23,7 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 <div align="center">
 
-| Feature | Details |
+| Specification | Details |
 |---------|---------|
 | **Time Period** | 2019–2020 |
 | **Number of Records** | 5,901 |
