@@ -1,102 +1,76 @@
 # 🛒 SuperStore Sales Analysis & Trend Insights (2019–2020)
 
-## 📌 Introduction
+---
 
-Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales dataset. Gender, age group, payment method, product sub-category, and other dimensions are analyzed. Dynamic slicers are used for interactive data exploration.
+## 📌 Introduction
+Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales data.  
+Dimensions analyzed include **Gender**, **Age Group**, **Payment Method**, **Product Sub-Category**, and more.  
+Dynamic slicers allow interactive exploration of the data.
 
 ---
-🛠️ **Tools Used**
+
+## 🛠️ Tools Used
 
 - **Microsoft Excel** – Data cleaning, transformation, analysis, and dashboard development
-
 - **Formulas & Functions:**
-  - `IF()` – Age group categorisation  
+  - `IF()` – Age group categorisation
   - `TEXT()` – Extracted Month and Year from Order Date
-
-- **Data Visualisation Techniques** – Pie charts, column charts, bar charts, line charts, combo charts, and histograms
-
----
-
-📊 **Data Description**
-
-  - Time Period: 2019–2020
-  - Number of Records: 5,901
-  - Data Type: Structured tabular transactional dataset
+- **Data Visualization Techniques:**  
+  - Pie charts, column charts, bar charts, line charts, combo charts, and histograms
+- **Pivot Tables & Slicers** – For summarising and filtering data interactively
 
 ---
 
-## 🧰 Data Preparation and Exploratory Analysis
+## 📊 Data Description
 
-- **Data Preparation:**
-  - Extracted Month and Year from Order Date using the `TEXT()` function
-  - Created Age Groups using `IF()` logic  
-  - Performed missing value analysis — no missing data found
+| Feature | Details |
+|---------|---------|
+| **Time Period** | 2019–2020 |
+| **Number of Records** | 5,901 |
+| **Data Type** | Structured tabular transactional dataset |
+| **Missing Values** | None |
 
-- **🔎 Exploratory Analysis:**
-  - Pivot tables for summarising sales across multiple dimensions
-  - Time-series exploration to identify seasonality and monthly profit trends
-  - Visualisations were used to uncover patterns, highlight seasonal trends, and effectively communicate multidimensional sales insights.
+---
+
+## 🧰 Data Preparation & Exploratory Analysis
+
+### Data Preparation
+- Extracted **Month** and **Year** from Order Date using `TEXT()` function
+- Created **Age Groups** (Young, Adult, Older) using `IF()` logic
+- Checked for missing values — dataset was complete
+
+### Exploratory Analysis
+- Used **pivot tables** to summarize sales across multiple dimensions
+- Conducted **time-series analysis** to identify seasonality and monthly profit trends
+- **Visualizations** were used to uncover patterns, highlight seasonal trends, and communicate insights effectively
 
 ---
 
 ## 📈 Sales Insights and Key Findings
 
-- **👩‍💼 Gender-Based Purchasing Patterns:**
-There is a strong gender gap in terms of customer purchasing patterns, as women make up about **70 percent** of the total sales, whereas men make up the other **30 percent**.
-
-
-- **🧓 Age Group Analysis:**
-**Women** have always been performing better than men in all the age groups. **Adults** place the highest number of orders, followed by young customers, for both genders. Within the adult group, women represent **34.67%** of sales, while men account for **15.32%**. Older customers tend to make fewer purchases, with older men contributing only **6.32%**, the lowest among all sub-groups.
-
-  #### 📊 Overall insights (2019–2020)
-
-  <p align="center">
-  <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png" alt="Histogram" width="600"/>
-  <br>
-  <em>Figure: Summary of Observed Trends and Patterns (2019–2020)</em>
-</p>
-
-
-- **📅 Seasonal Sales Trends:**
-There is an apparent seasonality to the sales and the highest sales are recorded in the month of **December**, with lowest sales turnover in the month of **February**.
-
-
-- **💰 Monthly Profit Variation:**
-Every month, profit patterns reflect the general sales. The peak profit is **December** and the minimum overall profit is recorded in **April**.
-
-- **📦 Top Product Sub-Categories:**
-**Phones (24%), Chairs (22%), and Binders (21%)** are the most lucrative product segments and are the leading overall sales contributors.
-
-
-- **🏆 Top Customers Visualization:**
-The top five customers are also identified, highlighting their key information and their proportional contribution to overall sales.
-
-
-✨ Year and payment method slicers are also added to see the category performance of specific selections.
-
-  #### 📊 Insights for 2020 (using slicer filters)
-<p align="center">
-  <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png" alt="Histogram" width="600"/>
-  <br>
-  <em>Figure: Overview of Identified Trends and Patterns (2020)</em>
-</p>
+- **Gender-Based Purchasing Patterns:** Women contribute ~70% of total sales; men ~30%
+- **Age Group Analysis:** Adults place the highest number of orders, followed by Young, then Older customers. Women outperform men in all age groups.
+- **Top Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%) are the most lucrative segments
+- **Seasonal Sales Trends:** December has peak sales; February has the lowest
+- **Monthly Profit Variation:** Profit patterns reflect sales; peak in December, lowest in April
+- **Top Customers:** Identified top 5 customers and their proportional contribution to overall sales
+- **Interactive Slicers:** Year and payment method slicers allow filtering to analyze category performance dynamically
 
 ---
 
 ## 📝 Conclusion
 
-Key trends indicated by the dashboard are that most sales are made by women and adults, December is the most profitable month, and Phones, Chairs, and Binders are the most profitable products. Interactive visuals prioritize best customers and opportunities.
+Most sales are made by **women** and **adults**.  
+**December** is the most profitable month, and **Phones, Chairs, and Binders** are the top-selling products.  
+Interactive dashboards highlight top customers and key opportunities for decision-making.
 
 ---
 
 ## 📫 I’d Love to Connect!
 
-- **LinkedIn:** [Md Fahim Hossain](https://www.linkedin.com/in/md-fahim-hossain-b51258227/)  
-- **Email:** fahimhossain0729@gmail.com
-
+- **LinkedIn:** [Md Fahim Hossain](https://www.linkedin.com/in/yourprofile)  
+- **Email:** [fahimhossain0729@gmail.com](mailto:fahimhossain0729@gmail.com)
 
 <div align="center">
-  
-**[⬆ Back to Top](#top)**
-
+  **[⬆ Back to Top](#top)**
 </div>
