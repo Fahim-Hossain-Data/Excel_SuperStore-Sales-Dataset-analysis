@@ -3,7 +3,7 @@
 ---
 
 ## 📌 Introduction
-Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales dataset. Gender, age group, payment method, product sub-category, and other dimensions are analyzed. Dynamic slicers are used for interactive data exploration.
+Developed an interactive Excel dashboard to examine two years (2019–2020) of sales data of SuperStore. Gender, age group, payment method, product sub-category, and other dimensions are analyzed. Dynamic slicers are used for interactive data exploration.
 
 ---
 
@@ -42,22 +42,22 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 - Checked for missing values — dataset was complete
 
 ### Exploratory Analysis
-- Used **pivot tables** to summarize sales across multiple dimensions
-- Conducted **time-series analysis** to identify seasonality and monthly profit trends
-- **Visualizations** were used to uncover patterns, highlight seasonal trends, and communicate insights effectively
+- Applied pivot tables in order to summarize sales in various dimensions.
+- Performed **time-series analysis** to determine the seasonality and monthly profit patterns.
+- Patterns were discovered through **Visualizations**, which helped to point out seasonal trends
 
 ---
 
 ## 📈 Sales Insights and Key Findings
 
 ### Overall Insights (2019–2020)
-- **Gender-Based Purchasing Patterns:** Women contribute ~70% of total sales; men ~30%
+- **Gender-Based Purchasing Patterns:** women make up of about 70 percent of total sales; men 30 percent.
 - **Age Group Analysis:** Adults place the highest number of orders, followed by Young, then Older customers. Women outperform men in all age groups.
-- **Top Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%)
-- **Seasonal Sales Trends:** December has peak sales; February has the lowest
-- **Monthly Profit Variation:** Peak profit in December, lowest in April
-- **Top Customers:** Identified top 5 customers and their proportional contribution
-- **Interactive Slicers:** Year and payment method slicers allow filtering for detailed analysis
+- **Most popular Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%).
+- **Seasonal Sales Trends:** December records the highest sales and February records the lowest.
+- **Monthly Profit Variation:** Highest profit in December and lowest in April.
+- **Top Customers:** Recognized top 5 customers and the percentage contribution.
+- **Interactive Slicers:** Year and payment method slicers could be filtered to be analyzed further.
 
 *The following figure shows overall sales trends and key patterns observed from 2019 to 2020.*
 
@@ -85,7 +85,7 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 Most sales are made by **women** and **adults**.  
 **December** is the most profitable month, and **Phones, Chairs, and Binders** are the top-selling products.  
-Interactive dashboards highlight top customers and key opportunities for decision-making.
+Interactive dashboards bring to light the best customers and significant decision-making opportunities.
 
 ---
 
