@@ -21,12 +21,16 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 ## 📊 Data Description
 
+<div align="center">
+
 | Feature | Details |
 |---------|---------|
 | **Time Period** | 2019–2020 |
 | **Number of Records** | 5,901 |
 | **Data Type** | Structured tabular transactional dataset |
 | **Missing Values** | None |
+
+</div>
 
 ---
 
