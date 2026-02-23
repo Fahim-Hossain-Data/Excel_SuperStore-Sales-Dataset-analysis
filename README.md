@@ -60,7 +60,7 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 - **Interactive Slicers:** Year and payment method slicers allow filtering for detailed analysis
 
 *The following figure shows overall sales trends and key patterns observed from 2019 to 2020.*
-### Overall Insights (2019–2020)
+
 <p align="center">
   <img src="https://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/90efa7e7b3623b9274c79bbbe31f0f2e481c3ac2/ALL%20Year.png" alt="Histogram" width="600"/>
   <br>
@@ -71,8 +71,7 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 
 ### Insights for 2020
 - Highlighted trends specifically for 2020 using slicer filters
-- Similar patterns observed with slight variations in product contributions or monthly trends
-### Insights for 2020 (Filtered)
+
 *The following figure shows sales trends specifically for 2020.*
 <p align="center">
   <img src="https://github.com/Fahim-Hossain-Data/Excel_SuperStore-Sales-Dataset-analysis/blob/3ba8c1f3ca64d719d5dc505199725d68682e939f/2020.png" alt="Histogram" width="600"/>
