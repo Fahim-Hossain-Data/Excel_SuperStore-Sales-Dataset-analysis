@@ -51,12 +51,12 @@ Developed an interactive Excel dashboard to examine two years (2019–2020) of s
 ## 📈 Sales Insights and Key Findings
 
 ### Overall Insights (2019–2020)
-- **Gender-Based Purchasing Patterns:** women make up of about 70 percent of total sales; men 30 percent.
+- **Gender-Based Purchasing Patterns:** women make up about 70 percent of total sales; men 30 percent.
 - **Age Group Analysis:** Adults place the highest number of orders, followed by Young, then Older customers. Women outperform men in all age groups.
 - **Most popular Product Sub-Categories:** Phones (24%), Chairs (22%), Binders (21%).
 - **Seasonal Sales Trends:** December records the highest sales and February records the lowest.
 - **Monthly Profit Variation:** Highest profit in December and lowest in April.
-- **Top Customers:** Recognized top 5 customers and the percentage contribution.
+- **Top Customers:** Recognized top 5 customers and their contribution.
 - **Interactive Slicers:** Year and payment method slicers could be filtered to be analyzed further.
 
 *The following figure shows overall sales trends and key patterns observed from 2019 to 2020.*
