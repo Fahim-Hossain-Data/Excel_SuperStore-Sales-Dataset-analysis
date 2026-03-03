@@ -39,7 +39,7 @@ Developed an interactive Excel dashboard to examine two years (2019–2020) of s
 ### Data Preparation
 - Extracted **Month** and **Year** from 'Order Date' using `TEXT()` function
 - Created **Age Groups** (Young, Adult, Older) using `IF()` logic
-- Checked for missing values — dataset was complete
+- Checked for missing values
 
 ### Exploratory Analysis
 - Applied pivot tables in order to summarize sales in various dimensions.
